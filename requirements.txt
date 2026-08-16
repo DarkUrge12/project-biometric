@@ -1,0 +1,7 @@
+opencv-python
+mtcnn
+tensorflow
+keras-facenet
+scikit-learn
+numpy
+matplotlib
